@@ -1,0 +1,23 @@
+{
+  "name": "express-website",
+  "version": "1.0.0",
+  "description": "A node.js and express website ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melodyvielma/node-express.git"
+  },
+  "author": "Melody Vielma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melodyvielma/node-express/issues"
+  },
+  "homepage": "https://github.com/melodyvielma/node-express#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
